@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 
-public class Leitor {
+public class Exercicio1 {
     public static void main(String [] args){
         int cont = 0, i = 0, tamanho = 0;
         try (Scanner entrada = new Scanner (System.in)) {

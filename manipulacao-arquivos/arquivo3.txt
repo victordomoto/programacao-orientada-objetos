@@ -1,0 +1,3 @@
+palavra1 1
+palavra2 2
+palavra3 3
